@@ -37,4 +37,4 @@ Tecnologias usadas:
 
 ![Screenshot](https://img.freepik.com/vector-gratis/edificio-hotel-flat_23-2148167459.jpg?w=1060&t=st=1695361570~exp=1695362170~hmac=8ee5fc67c18b8b0015abac2ed78c1e6b0bd123cb025891cb3562a1e3942baa3f)
 
-![Screenshot]([https://www.freepik.es/vector-premium/plantilla-ilustracion-dibujada-mano-dibujos-animados-planos-edificio-hotel-rascacielos-diseno-vista-panoramica_35705976.htm#page=3&query=hotel%20dibujo&position=25&from_view=keyword&track=ais](https://img.freepik.com/vector-premium/plantilla-ilustracion-dibujada-mano-dibujos-animados-planos-edificio-hotel-rascacielos-diseno-vista-panoramica_2175-10129.jpg?w=1480)https://img.freepik.com/vector-premium/plantilla-ilustracion-dibujada-mano-dibujos-animados-planos-edificio-hotel-rascacielos-diseno-vista-panoramica_2175-10129.jpg?w=1480)
+![Screenshot](https://img.freepik.com/vector-gratis/servicios-hotel-set-iconos_24877-52751.jpg?w=1060&t=st=1695361656~exp=1695362256~hmac=772a043e9801027d6d1d60dad8a9e6812a2c06ee2a4857d48986e1a087d822e8)
