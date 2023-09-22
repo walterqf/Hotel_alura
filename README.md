@@ -30,11 +30,11 @@ Tecnologias usadas:
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/walterqf)
+- [@walterqf](https://www.github.com/walterqf)
 
 
 ## Screenshots
 
-![Screenshot](https://www.freepik.es/vector-gratis/fondo-fachada-hotel-plana_4433004.htm#query=hotel%20dibujo&position=1&from_view=keyword&track=ais)
+![Screenshot](https://img.freepik.com/vector-gratis/edificio-hotel-flat_23-2148167459.jpg?w=1060&t=st=1695361570~exp=1695362170~hmac=8ee5fc67c18b8b0015abac2ed78c1e6b0bd123cb025891cb3562a1e3942baa3f)
 
-![Screenshot](https://www.freepik.es/vector-premium/plantilla-ilustracion-dibujada-mano-dibujos-animados-planos-edificio-hotel-rascacielos-diseno-vista-panoramica_35705976.htm#page=3&query=hotel%20dibujo&position=25&from_view=keyword&track=ais)
+![Screenshot]([https://www.freepik.es/vector-premium/plantilla-ilustracion-dibujada-mano-dibujos-animados-planos-edificio-hotel-rascacielos-diseno-vista-panoramica_35705976.htm#page=3&query=hotel%20dibujo&position=25&from_view=keyword&track=ais](https://img.freepik.com/vector-premium/plantilla-ilustracion-dibujada-mano-dibujos-animados-planos-edificio-hotel-rascacielos-diseno-vista-panoramica_2175-10129.jpg?w=1480)https://img.freepik.com/vector-premium/plantilla-ilustracion-dibujada-mano-dibujos-animados-planos-edificio-hotel-rascacielos-diseno-vista-panoramica_2175-10129.jpg?w=1480)
