@@ -16,12 +16,6 @@ Base de datos para almacenar todos los datos pedidos anteriormente.
 Ahora te preguntarás ¿Cómo se que datos debo registrar? Para eso el líder del proyecto puso a disposición un Diagrama de Entidad Relación que usaremos para crear las tablas en nuestra base de Datos y que está anexado a esta tarjeta y que también estará como una tarea en nuestro backlog. No olvides leer todas las tarjetas.
 
 
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
 Tecnologias usadas:
 *Netbeans
 *MySQL
